@@ -166,5 +166,12 @@
 	"mSimName":"TM",
 	"mPayload":"m.facebook.com",
 	"mNetworkImage":1
+	},
+	{
+	"mID":"9",
+	"mPayloadName":"TU",
+	"mSimName":"Sun",
+	"mPayload":"www.viber.com.edgekey.net",
+	"mNetworkImage":1
 	}
 ]

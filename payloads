@@ -1,12 +1,5 @@
 [
 	{
-	"mID":"0",
-	"mPayloadName":"GigaStories",
-	"mSimName":"Smart",
-	"mPayload":"abs.twimg.com",
-	"mNetworkImage":1	
-	},
-	{
 	"mID":"1",
 	"mPayloadName":"GigaVideo",
 	"mSimName":"Smart",
@@ -18,56 +11,21 @@
 	"mPayloadName":"GigaGames",
 	"mSimName":"Smart",
 	"mPayload":"activity.mobilelegends.com",
-	"mNetworkImage":1	
-	},
-	{
-	"mID":"3",
-	"mPayloadName":"GigaStudy",
-	"mSimName":"Smart",
-	"mPayload":"www.googleapis.com",
-	"mNetworkImage":1	
-	},
-	{
-	"mID":"4",
-	"mPayloadName":"GigaMusic",
-	"mSimName":"Smart",
-	"mPayload":"www.spotify.com",
-	"mNetworkImage":1	
-	},
-	{
-	"mID":"5",
-	"mPayloadName":"GigaWork",
-	"mSimName":"Smart",
-	"mPayload":"www.lazada.com.ph",
 	"mNetworkImage":1	
 	},
 	{
 	"mID":"6",
 	"mPayloadName":"GoWatch&Play",
 	"mSimName":"Globe",
-	"mPayload":"www.netflix.com",
+	"mPayload":"s3.amazonaws.com",
 	"mNetworkImage":1	
 	},
 	{
 	"mID":"7",
 	"mPayloadName":"GoShare&Shop",
 	"mSimName":"Globe",
-	"mPayload":"m.facebook.com",
+	"mPayload":"s3.amazonaws.com",
 	"mNetworkImage":1	
-	},
-	{
-	"mID":"8",
-	"mPayloadName":"GoListen&Travel",
-	"mSimName":"Globe",
-	"mPayload":"www.spotify.com",
-	"mNetworkImage":1	
-	},
-	{
-	"mID":"9",
-	"mPayloadName":"GoLearn&Work",
-	"mSimName":"Globe",
-	"mPayload":"www.viber.com",
-	"mNetworkImage":1
 	},
 	{
 	"mID":"0",
@@ -89,48 +47,6 @@
 	"mSimName":"TNT",
 	"mPayload":"activity.mobilelegends.com",
 	"mNetworkImage":1	
-	},
-	{
-	"mID":"3",
-	"mPayloadName":"GigaStudy",
-	"mSimName":"TNT",
-	"mPayload":"www.googleapis.com",
-	"mNetworkImage":1	
-	},
-	{
-	"mID":"4",
-	"mPayloadName":"GigaMusic",
-	"mSimName":"TNT",
-	"mPayload":"www.spotify.com",
-	"mNetworkImage":1	
-	},
-	{
-	"mID":"5",
-	"mPayloadName":"GigaWork",
-	"mSimName":"TNT",
-	"mPayload":"www.lazada.com.ph",
-	"mNetworkImage":1	
-	},
-	{
-	"mID":"5",
-	"mPayloadName":"Tropa",
-	"mSimName":"TNT",
-	"mPayload":"www.viber.com",
-	"mNetworkImage":1	
-	},
-	{
-	"mID":"5",
-	"mPayloadName":"Facebook",
-	"mSimName":"TNT",
-	"mPayload":"m.facebook.com",
-	"mNetworkImage":1	
-	},
-	{
-	"mID":"9",
-	"mPayloadName":"FunKwentuhan",
-	"mSimName":"TM",
-	"mPayload":"m.facebook.com",
-	"mNetworkImage":1
 	},
 	{
 	"mID":"9",
@@ -141,30 +57,9 @@
 	},
 	{
 	"mID":"9",
-	"mPayloadName":"FunAral",
-	"mSimName":"TM",
-	"mPayload":"api.google.com",
-	"mNetworkImage":1
-	},
-	{
-	"mID":"9",
-	"mPayloadName":"FunRaket",
-	"mSimName":"TM",
-	"mPayload":"www.lazada.com.ph",
-	"mNetworkImage":1
-	},
-	{
-	"mID":"9",
 	"mPayloadName":"Games",
 	"mSimName":"TM",
 	"mPayload":"activity.mobilelegends.com",
-	"mNetworkImage":1
-	},
-	{
-	"mID":"9",
-	"mPayloadName":"FB",
-	"mSimName":"TM",
-	"mPayload":"m.facebook.com",
 	"mNetworkImage":1
 	},
 	{

@@ -1,6 +1,13 @@
 [
 	{
 	"mID":"1",
+	"mPayloadName":"GigaStories",
+	"mSimName":"Smart",
+	"mPayload":"twitter.com",
+	"mNetworkImage":1	
+	},
+	{
+	"mID":"1",
 	"mPayloadName":"GigaVideo",
 	"mSimName":"Smart",
 	"mPayload":"go.iflix.com",
@@ -68,5 +75,26 @@
 	"mSimName":"Sun",
 	"mPayload":"www.viber.com.edgekey.net",
 	"mNetworkImage":1
+	},
+		{
+	"mID":"1",
+	"mPayloadName":"GigaStories",
+	"mSimName":"Sun",
+	"mPayload":"twitter.com",
+	"mNetworkImage":1	
+	},
+	{
+	"mID":"1",
+	"mPayloadName":"GigaVideo",
+	"mSimName":"Sun",
+	"mPayload":"go.iflix.com",
+	"mNetworkImage":1	
+	},
+	{
+	"mID":"2",
+	"mPayloadName":"GigaGames",
+	"mSimName":"Sun",
+	"mPayload":"activity.mobilelegends.com",
+	"mNetworkImage":1	
 	}
 ]

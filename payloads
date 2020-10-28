@@ -17,7 +17,7 @@
 	"mID":"2",
 	"mPayloadName":"GigaGames",
 	"mSimName":"Smart",
-	"mPayload":"activity.mobilelegends.com",
+	"mPayload":"mobile.garena.my",
 	"mNetworkImage":1	
 	},
 	{
@@ -52,7 +52,7 @@
 	"mID":"2",
 	"mPayloadName":"GigaGames",
 	"mSimName":"TNT",
-	"mPayload":"activity.mobilelegends.com",
+	"mPayload":"mobile.garena.my",
 	"mNetworkImage":1	
 	},
 	{
@@ -94,7 +94,7 @@
 	"mID":"2",
 	"mPayloadName":"GigaGames",
 	"mSimName":"Sun",
-	"mPayload":"activity.mobilelegends.com",
+	"mPayload":"mobile.garena.my",
 	"mNetworkImage":1	
 	}
 ]

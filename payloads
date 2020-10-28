@@ -8,6 +8,13 @@
 	},
 	{
 	"mID":"1",
+	"mPayloadName":"GigaStories",
+	"mSimName":"Smart",
+	"mPayload":"t.co",
+	"mNetworkImage":1	
+	},
+	{
+	"mID":"1",
 	"mPayloadName":"GigaVideo",
 	"mSimName":"Smart",
 	"mPayload":"go.iflix.com",
@@ -39,6 +46,13 @@
 	"mPayloadName":"GigaStories",
 	"mSimName":"TNT",
 	"mPayload":"twitter.com",
+	"mNetworkImage":1	
+	},
+	{
+	"mID":"0",
+	"mPayloadName":"GigaStories",
+	"mSimName":"TNT",
+	"mPayload":"t.co",
 	"mNetworkImage":1	
 	},
 	{

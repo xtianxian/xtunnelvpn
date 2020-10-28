@@ -1,14 +1,14 @@
 [
 	{
 	"mID":"1",
-	"mPayloadName":"GigaStories",
+	"mPayloadName":"GigaStories 1",
 	"mSimName":"Smart",
 	"mPayload":"twitter.com",
 	"mNetworkImage":1	
 	},
 	{
 	"mID":"1",
-	"mPayloadName":"GigaStories",
+	"mPayloadName":"GigaStories 2",
 	"mSimName":"Smart",
 	"mPayload":"t.co",
 	"mNetworkImage":1	
@@ -43,14 +43,14 @@
 	},
 	{
 	"mID":"0",
-	"mPayloadName":"GigaStories",
+	"mPayloadName":"GigaStories 1",
 	"mSimName":"TNT",
 	"mPayload":"twitter.com",
 	"mNetworkImage":1	
 	},
 	{
 	"mID":"0",
-	"mPayloadName":"GigaStories",
+	"mPayloadName":"GigaStories 2",
 	"mSimName":"TNT",
 	"mPayload":"t.co",
 	"mNetworkImage":1	

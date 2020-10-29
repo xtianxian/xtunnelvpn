@@ -94,7 +94,14 @@
 	"mID":"1",
 	"mPayloadName":"GigaStories",
 	"mSimName":"Sun",
-	"mPayload":"www.viber.com.edgekey.net",
+	"mPayload":"api.twitter.com",
+	"mNetworkImage":1	
+	},
+		{
+	"mID":"1",
+	"mPayloadName":"GigaStories",
+	"mSimName":"Sun",
+	"mPayload":"t.co",
 	"mNetworkImage":1	
 	},
 	{

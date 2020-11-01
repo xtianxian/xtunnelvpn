@@ -133,7 +133,11 @@
 				"mCustomUDPort":"",
 				"mCustomTCPort":"",
 				"mCustomTLSPort":"",
-				"mCustomProxyPort":""
+				"mCustomProxyPort":"",
+				"mTLS":true,
+				"mHTTP":true,
+				"mUDP":true,
+				"mTCP":true
 				},
 				{
 				"mID":"Normal",
@@ -144,7 +148,11 @@
 				"mCustomUDPort":"",
 				"mCustomTCPort":"",
 				"mCustomTLSPort":"",
-				"mCustomProxyPort":""
+				"mCustomProxyPort":"",
+				"mTLS":true,
+				"mHTTP":true,
+				"mUDP":true,
+				"mTCP":true
 				},
 				{
 				"mID":"Normal",
@@ -155,7 +163,11 @@
 				"mCustomUDPort":"",
 				"mCustomTCPort":"",
 				"mCustomTLSPort":"",
-				"mCustomProxyPort":""
+				"mCustomProxyPort":"",
+				"mTLS":true,
+				"mHTTP":true,
+				"mUDP":true,
+				"mTCP":true
 				},
 				{
 				"mID":"Normal",
@@ -166,7 +178,11 @@
 				"mCustomUDPort":"",
 				"mCustomTCPort":"",
 				"mCustomTLSPort":"",
-				"mCustomProxyPort":""
+				"mCustomProxyPort":"",
+				"mTLS":true,
+				"mHTTP":true,
+				"mUDP":true,
+				"mTCP":true
 				},
 				{
 				"mID":"Normal",
@@ -177,7 +193,11 @@
 				"mCustomUDPort":"",
 				"mCustomTCPort":"",
 				"mCustomTLSPort":"",
-				"mCustomProxyPort":""
+				"mCustomProxyPort":"",
+				"mTLS":true,
+				"mHTTP":true,
+				"mUDP":true,
+				"mTCP":true
 				},
 				{
 				"mID":"Normal",
@@ -188,7 +208,11 @@
 				"mCustomUDPort":"",
 				"mCustomTCPort":"",
 				"mCustomTLSPort":"",
-				"mCustomProxyPort":""
+				"mCustomProxyPort":"",
+				"mTLS":true,
+				"mHTTP":true,
+				"mUDP":true,
+				"mTCP":true
 				},
 				{
 				"mID":"Normal",
@@ -199,7 +223,11 @@
 				"mCustomUDPort":"",
 				"mCustomTCPort":"",
 				"mCustomTLSPort":"",
-				"mCustomProxyPort":""
+				"mCustomProxyPort":"",
+				"mTLS":true,
+				"mHTTP":true,
+				"mUDP":true,
+				"mTCP":true
 				},
 				{
 				"mID":"Normal",
@@ -210,7 +238,11 @@
 				"mCustomUDPort":"",
 				"mCustomTCPort":"",
 				"mCustomTLSPort":"",
-				"mCustomProxyPort":""
+				"mCustomProxyPort":"",
+				"mTLS":true,
+				"mHTTP":true,
+				"mUDP":true,
+				"mTCP":true
 				},
 				{
 				"mID":"Custom",
@@ -221,7 +253,11 @@
 				"mCustomUDPort":"",
 				"mCustomTCPort":"110",
 				"mCustomTLSPort":"",
-				"mCustomProxyPort":"8000"
+				"mCustomProxyPort":"8000",
+				"mTLS":false,
+				"mHTTP":true,
+				"mUDP":false,
+				"mTCP":true
 				}
 				,
 				{
@@ -233,7 +269,11 @@
 				"mCustomUDPort":"",
 				"mCustomTCPort":"110",
 				"mCustomTLSPort":"",
-				"mCustomProxyPort":"8000"
+				"mCustomProxyPort":"8000",
+				"mTLS":false,
+				"mHTTP":true,
+				"mUDP":false,
+				"mTCP":true
 				}
 		]
 }

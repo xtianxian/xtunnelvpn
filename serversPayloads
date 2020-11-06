@@ -215,7 +215,7 @@
 				"mTCP":true
 				},
 				{
-				"mID":"Normal",
+				"mID":"Custom",
 				"mCountry":"PH",
 				"mServerName":"Philippines 1",
 				"mFlagImage":1,
@@ -223,14 +223,14 @@
 				"mCustomUDPort":"",
 				"mCustomTCPort":"",
 				"mCustomTLSPort":"",
-				"mCustomProxyPort":"",
+				"mCustomProxyPort":"8080",
 				"mTLS":true,
 				"mHTTP":true,
 				"mUDP":true,
 				"mTCP":true
 				},
 				{
-				"mID":"Normal",
+				"mID":"Custom",
 				"mCountry":"PH",
 				"mServerName":"Philippines 2",
 				"mFlagImage":1,
@@ -238,14 +238,14 @@
 				"mCustomUDPort":"",
 				"mCustomTCPort":"",
 				"mCustomTLSPort":"",
-				"mCustomProxyPort":"",
+				"mCustomProxyPort":"8080",
 				"mTLS":true,
 				"mHTTP":true,
 				"mUDP":true,
 				"mTCP":true
 				},
 				{
-				"mID":"Normal",
+				"mID":"Custom",
 				"mCountry":"PH",
 				"mServerName":"Philippines 3",
 				"mFlagImage":1,
@@ -253,7 +253,7 @@
 				"mCustomUDPort":"",
 				"mCustomTCPort":"",
 				"mCustomTLSPort":"",
-				"mCustomProxyPort":"",
+				"mCustomProxyPort":"8080",
 				"mTLS":true,
 				"mHTTP":true,
 				"mUDP":true,

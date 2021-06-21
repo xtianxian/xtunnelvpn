@@ -1,15 +1,15 @@
 {	
 	"BlockedApps":[
-				{"app": "com.utorrent.client"},
-				{"app": "com.utorrent.client.pro"},
-				{"app": "com.bittorrent.client"},
-				{"app": "com.delphicoder.flud"},
-				{"app": "intelligems.torrdroid"},
-				{"app": "hu.tagsoft.ttorrent.lite"},
-				{"app": "codexial.movies.torrent"},
-				{"app": "org.proninyaroslav.libretorrent"},
-				{"app": "com.gorillasoftware.everyproxy"},
-				{"app": "be.mygod.vpnhotspot"}
+				{"testing": "com.utorrent.client"},
+				{"testing": "com.utorrent.client.pro"},
+				{"testing": "com.bittorrent.client"},
+				{"testing": "com.delphicoder.flud"},
+				{"testing": "intelligems.torrdroid"},
+				{"testing": "hu.tagsoft.ttorrent.lite"},
+				{"testing": "codexial.movies.torrent"},
+				{"testing": "org.proninyaroslav.libretorrent"},
+				{"testing": "com.gorillasoftware.everyproxy"},
+				{"testing": "be.mygod.vpnhotspot"}
 	],
 
 	"Payloads":[

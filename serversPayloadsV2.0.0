@@ -439,7 +439,7 @@
 				"mCustomUDPort":"",
 				"mCustomTCPort":"",
 				"mCustomTLSPort":"",
-				"mCustomProxyPort":"",
+				"mCustomProxyPort":"110",
 				"mTLS":true,
 				"mHTTP":true,
 				"mUDP":false,

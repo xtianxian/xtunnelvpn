@@ -501,7 +501,7 @@
 				"mCustomProxyPort":"8080",
 				"mTLS":false,
 				"mHTTP":true,
-				"mUDP":false,
+				"mUDP":true,
 				"mTCP":true
 				},
 				{

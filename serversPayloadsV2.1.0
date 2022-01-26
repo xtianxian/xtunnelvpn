@@ -176,7 +176,7 @@
 
 	"Servers":[
 				{
-				"mID":"VIP",
+				"mID":"Custom VIP",
 				"mCountry":"FR",
 				"mServerName":"FR VIP 1",
 				"mFlagImage":1,
@@ -191,7 +191,7 @@
 				"mTCP":true
 				},
 				{
-				"mID":"VIP",
+				"mID":"Custom VIP",
 				"mCountry":"FR",
 				"mServerName":"FR VIP 2",
 				"mFlagImage":1,
@@ -206,7 +206,7 @@
 				"mTCP":true
 				},
 				{
-				"mID":"VIP",
+				"mID":"Custom VIP",
 				"mCountry":"FR",
 				"mServerName":"FR VIP 3",
 				"mFlagImage":1,
@@ -221,7 +221,7 @@
 				"mTCP":true
 				},
 				{
-				"mID":"VIP",
+				"mID":"Custom VIP",
 				"mCountry":"FR",
 				"mServerName":"FR VIP 4",
 				"mFlagImage":1,
@@ -236,7 +236,7 @@
 				"mTCP":true
 				},
 				{
-				"mID":"VIP",
+				"mID":"Custom VIP",
 				"mCountry":"FR",
 				"mServerName":"FR VIP 5",
 				"mFlagImage":1,
@@ -251,7 +251,7 @@
 				"mTCP":true
 				},
 				{
-				"mID":"VIP",
+				"mID":"Custom VIP",
 				"mCountry":"PH",
 				"mServerName":"PH VIP 1",
 				"mFlagImage":1,
@@ -266,7 +266,7 @@
 				"mTCP":true
 				},
 				{
-				"mID":"VIP",
+				"mID":"Custom VIP",
 				"mCountry":"PH",
 				"mServerName":"PH VIP 2",
 				"mFlagImage":1,
@@ -281,7 +281,7 @@
 				"mTCP":true
 				},
 				{
-				"mID":"VIP",
+				"mID":"Custom VIP",
 				"mCountry":"PH",
 				"mServerName":"PH VIP 3",
 				"mFlagImage":1,
@@ -294,8 +294,9 @@
 				"mHTTP":true,
 				"mUDP":false,
 				"mTCP":true
-				},				{
-				"mID":"VIP",
+				},
+				{
+				"mID":"Custom VIP",
 				"mCountry":"PH",
 				"mServerName":"PH VIP 4",
 				"mFlagImage":1,
@@ -308,8 +309,9 @@
 				"mHTTP":true,
 				"mUDP":false,
 				"mTCP":true
-				},				{
-				"mID":"VIP",
+				},
+				{
+				"mID":"Custom VIP",
 				"mCountry":"PH",
 				"mServerName":"PH VIP 5",
 				"mFlagImage":1,

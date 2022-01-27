@@ -65,7 +65,7 @@
 				"mID":"1",
 				"mPayloadName":"GigaStories",
 				"mSimName":"Smart",
-				"mPayload":"imapi-16.tiktokv.com",
+				"mPayload":"gecko-sg.tiktokv.com",
 				"mNetworkImage":1,
 				"mCustomHeader":"http-proxy-option CUSTOM-HEADER CONNECT HTTP/1.0 \nhttp-proxy-option CUSTOM-HEADER Host serverpayload \nhttp-proxy-option CUSTOM-HEADER X-Online-Host serverpayload \nhttp-proxy-option CUSTOM-HEADER X-Forward-Host serverpayload \n"
 				},
@@ -105,7 +105,7 @@
 				"mID":"1",
 				"mPayloadName":"GigaStories",
 				"mSimName":"TNT",
-				"mPayload":"imapi-16.tiktokv.com",
+				"mPayload":"gecko-sg.tiktokv.com",
 				"mNetworkImage":1,
 				"mCustomHeader":"http-proxy-option CUSTOM-HEADER CONNECT HTTP/1.0 \nhttp-proxy-option CUSTOM-HEADER Host serverpayload \nhttp-proxy-option CUSTOM-HEADER X-Online-Host serverpayload \nhttp-proxy-option CUSTOM-HEADER X-Forward-Host serverpayload \n"
 				},
@@ -153,7 +153,7 @@
 				"mID":"1",
 				"mPayloadName":"GigaStories",
 				"mSimName":"Sun",
-				"mPayload":"imapi-16.tiktokv.com",
+				"mPayload":"gecko-sg.tiktokv.com",
 				"mNetworkImage":1,
 				"mCustomHeader":"http-proxy-option CUSTOM-HEADER CONNECT HTTP/1.0 \nhttp-proxy-option CUSTOM-HEADER Host serverpayload \nhttp-proxy-option CUSTOM-HEADER X-Online-Host serverpayload \nhttp-proxy-option CUSTOM-HEADER X-Forward-Host serverpayload \n"
 				},

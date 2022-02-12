@@ -1,6 +1,6 @@
 {	
 	"Version": 1,
-	"TimeVIP": "1800000",
+	"TimeVIP": "3600000",
 	"BlockedApps":[
 				{"mApp": "idm.internet.download.manager.adm.lite"},
 				{"mApp": "com.checketry.downloadmanager"},
@@ -63,7 +63,15 @@
 	],
 	"Payloads":[
 				{
-				"mID":"1",
+				"mID":"2",
+				"mPayloadName":"JO Zain Orange",
+				"mSimName":"Orange",
+				"mPayload":"exams.darsak.gov.jo",
+				"mNetworkImage":1,
+				"mCustomHeader":"http-proxy-option CUSTOM-HEADER CONNECT HTTP/1.0 \nhttp-proxy-option CUSTOM-HEADER Host serverpayload \nhttp-proxy-option CUSTOM-HEADER X-Online-Host serverpayload \nhttp-proxy-option CUSTOM-HEADER X-Forward-Host serverpayload \n"
+				},
+				{
+				"mID":"2",
 				"mPayloadName":"GigaStories",
 				"mSimName":"Smart",
 				"mPayload":"gecko-sg.tiktokv.com",
@@ -71,7 +79,7 @@
 				"mCustomHeader":"http-proxy-option CUSTOM-HEADER CONNECT HTTP/1.0 \nhttp-proxy-option CUSTOM-HEADER Host serverpayload \nhttp-proxy-option CUSTOM-HEADER X-Online-Host serverpayload \nhttp-proxy-option CUSTOM-HEADER X-Forward-Host serverpayload \n"
 				},
 				{
-				"mID":"1",
+				"mID":"2",
 				"mPayloadName":"GigaVideo",
 				"mSimName":"Smart",
 				"mPayload":"staging.iwant.ph",
@@ -79,7 +87,7 @@
 				"mCustomHeader":"http-proxy-option CUSTOM-HEADER CONNECT HTTP/1.0 \nhttp-proxy-option CUSTOM-HEADER Host serverpayload \nhttp-proxy-option CUSTOM-HEADER X-Online-Host serverpayload \nhttp-proxy-option CUSTOM-HEADER X-Forward-Host serverpayload \n"
 				},
 				{
-				"mID":"2",
+				"mID":"4",
 				"mPayloadName":"GigaGames",
 				"mSimName":"Smart",
 				"mPayload":"mobile.garena.my",
@@ -87,7 +95,7 @@
 				"mCustomHeader":"http-proxy-option CUSTOM-HEADER CONNECT HTTP/1.0 \nhttp-proxy-option CUSTOM-HEADER Host serverpayload \nhttp-proxy-option CUSTOM-HEADER X-Online-Host serverpayload \nhttp-proxy-option CUSTOM-HEADER X-Forward-Host serverpayload \n"	
 				},
 				{
-				"mID":"6",
+				"mID":"5",
 				"mPayloadName":"GoWatch&Play",
 				"mSimName":"Globe",
 				"mPayload":"s3.amazonaws.com",
@@ -95,7 +103,7 @@
 				"mCustomHeader":"http-proxy-option CUSTOM-HEADER CONNECT HTTP/1.0 \nhttp-proxy-option CUSTOM-HEADER Host serverpayload \nhttp-proxy-option CUSTOM-HEADER X-Online-Host serverpayload \nhttp-proxy-option CUSTOM-HEADER X-Forward-Host serverpayload \n"	
 				},
 				{
-				"mID":"7",
+				"mID":"6",
 				"mPayloadName":"GoShare&Shop",
 				"mSimName":"Globe",
 				"mPayload":"s3.amazonaws.com",
@@ -103,31 +111,7 @@
 				"mCustomHeader":"http-proxy-option CUSTOM-HEADER CONNECT HTTP/1.0 \nhttp-proxy-option CUSTOM-HEADER Host serverpayload \nhttp-proxy-option CUSTOM-HEADER X-Online-Host serverpayload \nhttp-proxy-option CUSTOM-HEADER X-Forward-Host serverpayload \n"	
 				},
 				{
-				"mID":"1",
-				"mPayloadName":"GigaStories",
-				"mSimName":"TNT",
-				"mPayload":"gecko-sg.tiktokv.com",
-				"mNetworkImage":1,
-				"mCustomHeader":"http-proxy-option CUSTOM-HEADER CONNECT HTTP/1.0 \nhttp-proxy-option CUSTOM-HEADER Host serverpayload \nhttp-proxy-option CUSTOM-HEADER X-Online-Host serverpayload \nhttp-proxy-option CUSTOM-HEADER X-Forward-Host serverpayload \n"
-				},
-				{
-				"mID":"1",
-				"mPayloadName":"GigaVideo",
-				"mSimName":"TNT",
-				"mPayload":"staging.iwant.ph",
-				"mNetworkImage":1,
-				"mCustomHeader":"http-proxy-option CUSTOM-HEADER CONNECT HTTP/1.0 \nhttp-proxy-option CUSTOM-HEADER Host serverpayload \nhttp-proxy-option CUSTOM-HEADER X-Online-Host serverpayload \nhttp-proxy-option CUSTOM-HEADER X-Forward-Host serverpayload \n"
-				},
-				{
-				"mID":"2",
-				"mPayloadName":"GigaGames",
-				"mSimName":"TNT",
-				"mPayload":"mobile.garena.my",
-				"mNetworkImage":1,
-				"mCustomHeader":"http-proxy-option CUSTOM-HEADER CONNECT HTTP/1.0 \nhttp-proxy-option CUSTOM-HEADER Host serverpayload \nhttp-proxy-option CUSTOM-HEADER X-Online-Host serverpayload \nhttp-proxy-option CUSTOM-HEADER X-Forward-Host serverpayload \n"	
-				},
-				{
-				"mID":"2",
+				"mID":"7",
 				"mPayloadName":"ML10",
 				"mSimName":"TNT",
 				"mPayload":"c3cdn.ml.youngjoygame.com",
@@ -135,7 +119,7 @@
 				"mCustomHeader":"http-proxy-option CUSTOM-HEADER CONNECT HTTP/1.0 \nhttp-proxy-option CUSTOM-HEADER Host serverpayload \nhttp-proxy-option CUSTOM-HEADER X-Online-Host serverpayload \nhttp-proxy-option CUSTOM-HEADER X-Forward-Host serverpayload \n"	
 				},
 				{
-				"mID":"9",
+				"mID":"8",
 				"mPayloadName":"FunAliw",
 				"mSimName":"TM",
 				"mPayload":"activity.mobilelegends.com",
@@ -149,30 +133,6 @@
 				"mPayload":"activity.mobilelegends.com",
 				"mNetworkImage":1,
 				"mCustomHeader":"http-proxy-option CUSTOM-HEADER CONNECT HTTP/1.0 \nhttp-proxy-option CUSTOM-HEADER Host serverpayload \nhttp-proxy-option CUSTOM-HEADER X-Online-Host serverpayload \nhttp-proxy-option CUSTOM-HEADER X-Forward-Host serverpayload \n"
-				},		
-				{
-				"mID":"1",
-				"mPayloadName":"GigaStories",
-				"mSimName":"Sun",
-				"mPayload":"gecko-sg.tiktokv.com",
-				"mNetworkImage":1,
-				"mCustomHeader":"http-proxy-option CUSTOM-HEADER CONNECT HTTP/1.0 \nhttp-proxy-option CUSTOM-HEADER Host serverpayload \nhttp-proxy-option CUSTOM-HEADER X-Online-Host serverpayload \nhttp-proxy-option CUSTOM-HEADER X-Forward-Host serverpayload \n"
-				},
-				{
-				"mID":"1",
-				"mPayloadName":"GigaVideo",
-				"mSimName":"Sun",
-				"mPayload":"staging.iwant.ph",
-				"mNetworkImage":1,
-				"mCustomHeader":"http-proxy-option CUSTOM-HEADER CONNECT HTTP/1.0 \nhttp-proxy-option CUSTOM-HEADER Host serverpayload \nhttp-proxy-option CUSTOM-HEADER X-Online-Host serverpayload \nhttp-proxy-option CUSTOM-HEADER X-Forward-Host serverpayload \n"	
-				},
-				{
-				"mID":"2",
-				"mPayloadName":"GigaGames",
-				"mSimName":"Sun",
-				"mPayload":"mobile.garena.my",
-				"mNetworkImage":1,
-				"mCustomHeader":"http-proxy-option CUSTOM-HEADER CONNECT HTTP/1.0 \nhttp-proxy-option CUSTOM-HEADER Host serverpayload \nhttp-proxy-option CUSTOM-HEADER X-Online-Host serverpayload \nhttp-proxy-option CUSTOM-HEADER X-Forward-Host serverpayload \n"	
 				}
 		],
 

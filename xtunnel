@@ -1,5 +1,5 @@
 {	
-	"Version": 35,
+	"Version": 36,
 	"TimeVIP": "3600000",
 	"BlockedApps":[
 				{"mApp": "idm.internet.download.manager.adm.lite"},

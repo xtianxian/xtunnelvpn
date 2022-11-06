@@ -154,7 +154,7 @@
 				"mTCP":true,
 				"mWS":true,
 				"mWSS":true
-				"mUDP":true
+				"mDNS":true
 				},
 				{
 				"mID":"Custom",

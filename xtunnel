@@ -153,7 +153,7 @@
 				"mUDP":true,
 				"mTCP":true,
 				"mWS":true,
-				"mWSS":true
+				"mWSS":true,
 				"mDNS":true
 				},
 				{

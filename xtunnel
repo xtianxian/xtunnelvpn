@@ -1,5 +1,5 @@
 {	
-	"Version": 58,
+	"Version": 59,
 	"BlockedApps":[
 				{"mApp": "idm.internet.download.manager.adm.lite"},
 				{"mApp": "com.checketry.downloadmanager"},

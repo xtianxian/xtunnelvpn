@@ -126,7 +126,15 @@
 				"mID":"3",
 				"mPayloadName":"Line",
 				"mSimName":"bug",
-				"mPayload":"line",
+				"mPayload":"line.me",
+				"mNetworkImage":1,
+				"mCustomHeader":"http-proxy-option CUSTOM-HEADER CONNECT HTTP/1.0 \nhttp-proxy-option CUSTOM-HEADER Host serverpayload \nhttp-proxy-option CUSTOM-HEADER X-Online-Host serverpayload \nhttp-proxy-option CUSTOM-HEADER X-Forward-Host serverpayload \n"
+				},
+				{
+				"mID":"4",
+				"mPayloadName":"Mobile Legends",
+				"mSimName":"bug",
+				"mPayload":"web.mobilelegends.com",
 				"mNetworkImage":1,
 				"mCustomHeader":"http-proxy-option CUSTOM-HEADER CONNECT HTTP/1.0 \nhttp-proxy-option CUSTOM-HEADER Host serverpayload \nhttp-proxy-option CUSTOM-HEADER X-Online-Host serverpayload \nhttp-proxy-option CUSTOM-HEADER X-Forward-Host serverpayload \n"
 				}

@@ -1,5 +1,5 @@
 {	
-	"Version": 61,
+	"Version": 62,
 	"BlockedApps":[
 				{"mApp": "idm.internet.download.manager.adm.lite"},
 				{"mApp": "com.checketry.downloadmanager"},
@@ -84,7 +84,7 @@
 	"Payloads":[
 				{
 				"mID":"0",
-				"mPayloadName":"Darsak",
+				"mPayloadName":"Payload 1",
 				"mSimName":"bug",
 				"mPayload":"exams.darsak.gov.jo",
 				"mNetworkImage":1,
@@ -92,7 +92,7 @@
 				},
 				{
 				"mID":"1",
-				"mPayloadName":"Youtube",
+				"mPayloadName":"Payload 2",
 				"mSimName":"bug",
 				"mPayload":"youtube.com",
 				"mNetworkImage":1,
@@ -100,7 +100,7 @@
 				},
 				{
 				"mID":"2",
-				"mPayloadName":"Tiktok",
+				"mPayloadName":"Payload 3",
 				"mSimName":"bug",
 				"mPayload":"gecko-sg.tiktokv.com",
 				"mNetworkImage":1,
@@ -108,7 +108,7 @@
 				},
 				{
 				"mID":"2",
-				"mPayloadName":"Facebook",
+				"mPayloadName":"Payload 4",
 				"mSimName":"bug",
 				"mPayload":"m.facebook.com",
 				"mNetworkImage":1,
@@ -116,7 +116,7 @@
 				},
 				{
 				"mID":"2",
-				"mPayloadName":"Akamaiedge",
+				"mPayloadName":"Payload 5",
 				"mSimName":"bug",
 				"mPayload":"e9478.dsch.akamaiedge.net",
 				"mNetworkImage":1,
@@ -124,7 +124,7 @@
 				},
 				{
 				"mID":"3",
-				"mPayloadName":"Line",
+				"mPayloadName":"Payload 6",
 				"mSimName":"bug",
 				"mPayload":"line.me",
 				"mNetworkImage":1,
@@ -132,7 +132,7 @@
 				},
 				{
 				"mID":"4",
-				"mPayloadName":"Mobile Legends",
+				"mPayloadName":"Payload 7",
 				"mSimName":"bug",
 				"mPayload":"web.mobilelegends.com",
 				"mNetworkImage":1,

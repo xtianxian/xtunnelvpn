@@ -392,7 +392,8 @@
 				"mWSS":true,
 				"mDNS":true
 				},
-								"mID":"Custom",
+				{
+				"mID":"Custom",
 				"mCountry":"FR",
 				"mServerName":"FR 7",
 				"mNSServer":"fr7ns.xtianxian.com",
@@ -412,7 +413,7 @@
 				"mWSS":true,
 				"mDNS":true
 				},
-								"mID":"Custom",
+				{				"mID":"Custom",
 				"mCountry":"FR",
 				"mServerName":"FR 8",
 				"mNSServer":"fr8ns.xtianxian.com",
@@ -432,7 +433,7 @@
 				"mWSS":true,
 				"mDNS":true
 				},
-								"mID":"Custom",
+				{				"mID":"Custom",
 				"mCountry":"FR",
 				"mServerName":"FR 9",
 				"mNSServer":"fr9ns.xtianxian.com",
@@ -452,7 +453,7 @@
 				"mWSS":true,
 				"mDNS":true
 				},
-								"mID":"Custom",
+				{				"mID":"Custom",
 				"mCountry":"FR",
 				"mServerName":"FR 10",
 				"mNSServer":"fr10ns.xtianxian.com",
